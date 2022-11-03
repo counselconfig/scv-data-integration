@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SCV Data Integration", "SCV Data Integration\SCV Data Integration.dtproj", "{070509E6-CF3B-446B-B28C-E8AB0FB51DAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{070509E6-CF3B-446B-B28C-E8AB0FB51DAC}.Development|Default.ActiveCfg = Development
+		{070509E6-CF3B-446B-B28C-E8AB0FB51DAC}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {926A16F4-BB84-4D54-8A51-C13EFEDA2F59}
+	EndGlobalSection
+EndGlobal
